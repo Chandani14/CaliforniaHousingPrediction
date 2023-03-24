@@ -1,5 +1,4 @@
 # CaliforniaHousingPrediction
-Created Four Linear Regressor Model
 
 The goal of this Project is to understand the logic, methods, and types available to implement
 machine learning Regression Analysis.
